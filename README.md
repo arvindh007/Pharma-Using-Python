@@ -1,2 +1,2 @@
-# Pharma-Using-Python
-Pharmacy Management using Python. 
+#Pharmacy Management System Project in Python
+
